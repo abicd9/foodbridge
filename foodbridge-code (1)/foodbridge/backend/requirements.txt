@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2
+argon2-cffi
+httpx
+pydantic[email]>=2
+google-auth
+requests
+psycopg[binary]
